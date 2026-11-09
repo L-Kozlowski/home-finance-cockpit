@@ -1,0 +1,5 @@
+﻿Date,Amount,Description,Counterparty,Currency,Status,Transaction ID,Balance
+2026-06-05,300.00,Internal transfer | Cash withdrawal | Main account to Cash wallet,James Wilson | Own accounts,PLN,COMPLETED,HFC-20260605-00319,1766.00
+2026-06-10,-43.00,Cash payment | Food and coffee,STARBUCKS,PLN,COMPLETED,HFC-20260610-00360,1723.00
+2026-06-19,-40.00,Cash payment | Food and coffee,MCDONALD'S,PLN,COMPLETED,HFC-20260619-00361,1683.00
+2026-06-26,-59.00,Cash payment | Food and coffee,DOMINO'S,PLN,COMPLETED,HFC-20260626-00362,1624.00

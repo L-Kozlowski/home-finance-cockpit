@@ -1,0 +1,4 @@
+﻿Date,Amount,Description,Counterparty,Currency,Status,Transaction ID,Balance
+2026-04-04,900.00,Internal transfer | Monthly bond contribution | Main account to Bond portfolio,James Wilson | Own accounts,PLN,COMPLETED,HFC-20260404-00194,15715.80
+2026-04-28,45.70,Bond distribution | Monthly income,VANGUARD | Bond distributions,PLN,COMPLETED,HFC-20260428-00241,15761.50
+2026-04-28,-3.50,Bond custody fee | Monthly charge,VANGUARD | Bond custody,PLN,COMPLETED,HFC-20260428-00245,15758.00

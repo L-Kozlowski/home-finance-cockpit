@@ -1,0 +1,4 @@
+﻿Date,Amount,Description,Counterparty,Currency,Status,Transaction ID,Balance
+2026-06-04,200.00,FX transfer | Holiday fund contribution | Main account to Revolut Travel,James Wilson | Currency exchange,EUR,COMPLETED,HFC-20260604-00317,1939.00
+2026-06-12,-10.00,Travel account | Subscription,SPOTIFY,EUR,COMPLETED,HFC-20260612-00369,1929.00
+2026-06-28,900.00,FX transfer | Summer holiday top-up | Main account to Revolut Travel,James Wilson | Currency exchange,EUR,COMPLETED,HFC-20260628-00632,2829.00

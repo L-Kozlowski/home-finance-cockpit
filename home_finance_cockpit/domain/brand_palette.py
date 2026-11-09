@@ -1,0 +1,21 @@
+"""Home Finance Cockpit colors from the supplied cyan brand guide."""
+
+BACKGROUND = "#0B1623"
+PANEL = "#112233"
+SURFACE = "#1A2B3D"
+BORDER = "#24394D"
+INPUT = "#1E3347"
+TEXT = "#EDF4FF"
+MUTED = "#A8BED5"
+DISABLED = "#7B8FA6"
+ACCENT = "#22D3EE"
+ACCENT_LIGHT = "#55E8FF"
+ACCENT_DARK = "#06B6D4"
+SUCCESS = "#10B981"
+WARNING = "#F59E0B"
+ERROR = "#EF4444"
+INFO = "#3B82F6"
+INK = "#062536"
+CHART_COLORS = (ACCENT, INFO, WARNING, "#8B5CF6", SUCCESS, ERROR)
+
+BRAND_GRADIENT = f"qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 {ACCENT_LIGHT}, stop:0.5 {ACCENT}, stop:1 {ACCENT_DARK})"

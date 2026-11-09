@@ -1,0 +1,3 @@
+﻿Date,Amount,Description,Counterparty,Currency,Status,Transaction ID,Balance
+2026-06-03,150.00,FX transfer | Gold reserve contribution | Main account to Gold reserve,James Wilson | Currency exchange,USD,COMPLETED,HFC-20260603-00313,2392.50
+2026-06-28,-1.50,Gold custody fee | Monthly charge,ISHARES,USD,COMPLETED,HFC-20260628-00367,2391.00

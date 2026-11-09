@@ -1,0 +1,1069 @@
+{
+  "format": "home-finance-categories",
+  "version": 1,
+  "categories": [
+    {
+      "id": 24,
+      "parent_id": null,
+      "name": "Entertainment",
+      "color": "#8B5CF6",
+      "icon_name": "music"
+    },
+    {
+      "id": 25,
+      "parent_id": 24,
+      "name": "Culture",
+      "color": null,
+      "icon_name": "music"
+    },
+    {
+      "id": 26,
+      "parent_id": 24,
+      "name": "Sports",
+      "color": null,
+      "icon_name": "sport"
+    },
+    {
+      "id": 2,
+      "parent_id": null,
+      "name": "Food",
+      "color": "#10B981",
+      "icon_name": "food"
+    },
+    {
+      "id": 5,
+      "parent_id": 2,
+      "name": "Cafes",
+      "color": null,
+      "icon_name": "coffee"
+    },
+    {
+      "id": 3,
+      "parent_id": 2,
+      "name": "Groceries",
+      "color": null,
+      "icon_name": "cart"
+    },
+    {
+      "id": 4,
+      "parent_id": 2,
+      "name": "Restaurants",
+      "color": null,
+      "icon_name": "restaurant"
+    },
+    {
+      "id": 18,
+      "parent_id": null,
+      "name": "Health",
+      "color": "#F472B6",
+      "icon_name": "health"
+    },
+    {
+      "id": 20,
+      "parent_id": 18,
+      "name": "Medical visits",
+      "color": null,
+      "icon_name": "health"
+    },
+    {
+      "id": 19,
+      "parent_id": 18,
+      "name": "Medicine",
+      "color": null,
+      "icon_name": "health"
+    },
+    {
+      "id": 6,
+      "parent_id": null,
+      "name": "Housing",
+      "color": "#A78BFA",
+      "icon_name": "home"
+    },
+    {
+      "id": 10,
+      "parent_id": 6,
+      "name": "Furniture and home",
+      "color": null,
+      "icon_name": "home"
+    },
+    {
+      "id": 7,
+      "parent_id": 6,
+      "name": "Housing fees",
+      "color": null,
+      "icon_name": "home"
+    },
+    {
+      "id": 9,
+      "parent_id": 6,
+      "name": "Internet",
+      "color": null,
+      "icon_name": "internet"
+    },
+    {
+      "id": 8,
+      "parent_id": 6,
+      "name": "Utilities",
+      "color": null,
+      "icon_name": "power"
+    },
+    {
+      "id": 27,
+      "parent_id": null,
+      "name": "Income",
+      "color": "#06B6D4",
+      "icon_name": "business"
+    },
+    {
+      "id": 31,
+      "parent_id": 27,
+      "name": "Dividends",
+      "color": null,
+      "icon_name": "savings"
+    },
+    {
+      "id": 30,
+      "parent_id": 27,
+      "name": "Interest",
+      "color": null,
+      "icon_name": "bank"
+    },
+    {
+      "id": 29,
+      "parent_id": 27,
+      "name": "Other income",
+      "color": null,
+      "icon_name": "cash"
+    },
+    {
+      "id": 28,
+      "parent_id": 27,
+      "name": "Salary",
+      "color": null,
+      "icon_name": "business"
+    },
+    {
+      "id": 47,
+      "parent_id": null,
+      "name": "Internal transfers",
+      "color": "#94A3B8",
+      "icon_name": "bank"
+    },
+    {
+      "id": 48,
+      "parent_id": 47,
+      "name": "Between own accounts",
+      "color": null,
+      "icon_name": "bank"
+    },
+    {
+      "id": 49,
+      "parent_id": 47,
+      "name": "Currency exchange",
+      "color": null,
+      "icon_name": "cash"
+    },
+    {
+      "id": 40,
+      "parent_id": null,
+      "name": "Investments",
+      "color": "#F2CC82",
+      "icon_name": "savings"
+    },
+    {
+      "id": 43,
+      "parent_id": 40,
+      "name": "Bond custody",
+      "color": null,
+      "icon_name": "bank"
+    },
+    {
+      "id": 41,
+      "parent_id": 40,
+      "name": "Brokerage fees",
+      "color": null,
+      "icon_name": "business"
+    },
+    {
+      "id": 42,
+      "parent_id": 40,
+      "name": "Gold custody",
+      "color": null,
+      "icon_name": "savings"
+    },
+    {
+      "id": 44,
+      "parent_id": null,
+      "name": "Phone transaction",
+      "color": "#FB923C",
+      "icon_name": "phone"
+    },
+    {
+      "id": 45,
+      "parent_id": 44,
+      "name": "Friends and family",
+      "color": null,
+      "icon_name": "phone"
+    },
+    {
+      "id": 46,
+      "parent_id": 44,
+      "name": "Shared expenses",
+      "color": null,
+      "icon_name": "phone"
+    },
+    {
+      "id": 21,
+      "parent_id": null,
+      "name": "Shopping",
+      "color": "#F59E0B",
+      "icon_name": "cart"
+    },
+    {
+      "id": 22,
+      "parent_id": 21,
+      "name": "Clothing",
+      "color": null,
+      "icon_name": "clothes"
+    },
+    {
+      "id": 23,
+      "parent_id": 21,
+      "name": "Electronics",
+      "color": null,
+      "icon_name": "laptop"
+    },
+    {
+      "id": 32,
+      "parent_id": null,
+      "name": "Subscriptions",
+      "color": "#818CF8",
+      "icon_name": "card"
+    },
+    {
+      "id": 34,
+      "parent_id": 32,
+      "name": "Software",
+      "color": null,
+      "icon_name": "laptop"
+    },
+    {
+      "id": 33,
+      "parent_id": 32,
+      "name": "Streaming and music",
+      "color": null,
+      "icon_name": "music"
+    },
+    {
+      "id": 11,
+      "parent_id": null,
+      "name": "Transport",
+      "color": "#3B82F6",
+      "icon_name": "car"
+    },
+    {
+      "id": 16,
+      "parent_id": 11,
+      "name": "Car insurance",
+      "color": null,
+      "icon_name": "shield"
+    },
+    {
+      "id": 15,
+      "parent_id": 11,
+      "name": "Car maintenance",
+      "color": null,
+      "icon_name": "tools"
+    },
+    {
+      "id": 14,
+      "parent_id": 11,
+      "name": "Car purchase",
+      "color": null,
+      "icon_name": "car"
+    },
+    {
+      "id": 12,
+      "parent_id": 11,
+      "name": "Fuel",
+      "color": null,
+      "icon_name": "fuel"
+    },
+    {
+      "id": 17,
+      "parent_id": 11,
+      "name": "Parking",
+      "color": null,
+      "icon_name": "car"
+    },
+    {
+      "id": 13,
+      "parent_id": 11,
+      "name": "Public transport",
+      "color": null,
+      "icon_name": "train"
+    },
+    {
+      "id": 35,
+      "parent_id": null,
+      "name": "Travel",
+      "color": "#22D3EE",
+      "icon_name": "travel"
+    },
+    {
+      "id": 38,
+      "parent_id": 35,
+      "name": "Car rental",
+      "color": null,
+      "icon_name": "car"
+    },
+    {
+      "id": 39,
+      "parent_id": 35,
+      "name": "Experiences",
+      "color": null,
+      "icon_name": "camera"
+    },
+    {
+      "id": 36,
+      "parent_id": 35,
+      "name": "Flights",
+      "color": null,
+      "icon_name": "plane"
+    },
+    {
+      "id": 37,
+      "parent_id": 35,
+      "name": "Hotels",
+      "color": null,
+      "icon_name": "hotel"
+    }
+  ],
+  "rules": [
+    {
+      "category_id": 3,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "literal",
+          "pattern": "LIDL"
+        }
+      ]
+    },
+    {
+      "category_id": 3,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "literal",
+          "pattern": "ALDI"
+        }
+      ]
+    },
+    {
+      "category_id": 3,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "literal",
+          "pattern": "CARREFOUR"
+        }
+      ]
+    },
+    {
+      "category_id": 3,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "literal",
+          "pattern": "TESCO"
+        }
+      ]
+    },
+    {
+      "category_id": 3,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "literal",
+          "pattern": "COSTCO"
+        }
+      ]
+    },
+    {
+      "category_id": 4,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "MCDONALD'S"
+        }
+      ]
+    },
+    {
+      "category_id": 4,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "BURGER KING"
+        }
+      ]
+    },
+    {
+      "category_id": 4,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "DOMINO'S"
+        }
+      ]
+    },
+    {
+      "category_id": 4,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "UBER EATS"
+        }
+      ]
+    },
+    {
+      "category_id": 5,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "STARBUCKS"
+        }
+      ]
+    },
+    {
+      "category_id": 5,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "COSTA COFFEE"
+        }
+      ]
+    },
+    {
+      "category_id": 7,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "GREYSTAR"
+        }
+      ]
+    },
+    {
+      "category_id": 8,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "ENGIE"
+        }
+      ]
+    },
+    {
+      "category_id": 8,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "EDF"
+        }
+      ]
+    },
+    {
+      "category_id": 9,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "VODAFONE"
+        }
+      ]
+    },
+    {
+      "category_id": 10,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "IKEA"
+        }
+      ]
+    },
+    {
+      "category_id": 12,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "SHELL"
+        }
+      ]
+    },
+    {
+      "category_id": 12,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "BP"
+        }
+      ]
+    },
+    {
+      "category_id": 12,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "ESSO"
+        }
+      ]
+    },
+    {
+      "category_id": 12,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "TOTALENERGIES"
+        }
+      ]
+    },
+    {
+      "category_id": 13,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "UBER"
+        }
+      ]
+    },
+    {
+      "category_id": 13,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "BOLT"
+        }
+      ]
+    },
+    {
+      "category_id": 13,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "FLIXBUS"
+        }
+      ]
+    },
+    {
+      "category_id": 14,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "TOYOTA"
+        }
+      ]
+    },
+    {
+      "category_id": 15,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "BOSCH CAR SERVICE"
+        }
+      ]
+    },
+    {
+      "category_id": 15,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "MICHELIN"
+        }
+      ]
+    },
+    {
+      "category_id": 16,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "ALLIANZ"
+        }
+      ]
+    },
+    {
+      "category_id": 17,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "Q-PARK"
+        }
+      ]
+    },
+    {
+      "category_id": 19,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "BOOTS"
+        }
+      ]
+    },
+    {
+      "category_id": 19,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "WALGREENS"
+        }
+      ]
+    },
+    {
+      "category_id": 20,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "BUPA"
+        }
+      ]
+    },
+    {
+      "category_id": 22,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "ZARA"
+        }
+      ]
+    },
+    {
+      "category_id": 22,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "H&M"
+        }
+      ]
+    },
+    {
+      "category_id": 22,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "UNIQLO"
+        }
+      ]
+    },
+    {
+      "category_id": 22,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "NIKE"
+        }
+      ]
+    },
+    {
+      "category_id": 22,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "ADIDAS"
+        }
+      ]
+    },
+    {
+      "category_id": 23,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "AMAZON"
+        }
+      ]
+    },
+    {
+      "category_id": 23,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "APPLE"
+        }
+      ]
+    },
+    {
+      "category_id": 23,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "SAMSUNG"
+        }
+      ]
+    },
+    {
+      "category_id": 25,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "CINEWORLD"
+        }
+      ]
+    },
+    {
+      "category_id": 25,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "TICKETMASTER"
+        }
+      ]
+    },
+    {
+      "category_id": 25,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "STEAM"
+        }
+      ]
+    },
+    {
+      "category_id": 25,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "PLAYSTATION"
+        }
+      ]
+    },
+    {
+      "category_id": 26,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "DECATHLON"
+        }
+      ]
+    },
+    {
+      "category_id": 26,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "BASIC-FIT"
+        }
+      ]
+    },
+    {
+      "category_id": 33,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "NETFLIX"
+        }
+      ]
+    },
+    {
+      "category_id": 33,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "SPOTIFY"
+        }
+      ]
+    },
+    {
+      "category_id": 33,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "DISNEY+"
+        }
+      ]
+    },
+    {
+      "category_id": 34,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "ADOBE"
+        }
+      ]
+    },
+    {
+      "category_id": 34,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "MICROSOFT 365"
+        }
+      ]
+    },
+    {
+      "category_id": 36,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "LUFTHANSA"
+        }
+      ]
+    },
+    {
+      "category_id": 36,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "RYANAIR"
+        }
+      ]
+    },
+    {
+      "category_id": 36,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "EASYJET"
+        }
+      ]
+    },
+    {
+      "category_id": 37,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "MARRIOTT"
+        }
+      ]
+    },
+    {
+      "category_id": 37,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "HILTON"
+        }
+      ]
+    },
+    {
+      "category_id": 37,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "BOOKING.COM"
+        }
+      ]
+    },
+    {
+      "category_id": 38,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "HERTZ"
+        }
+      ]
+    },
+    {
+      "category_id": 38,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "SIXT"
+        }
+      ]
+    },
+    {
+      "category_id": 39,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "exact",
+          "pattern": "GETYOURGUIDE"
+        }
+      ]
+    },
+    {
+      "category_id": 28,
+      "conditions": [
+        {
+          "column_name": "description",
+          "mode": "starts_with",
+          "pattern": "PAYROLL"
+        }
+      ]
+    },
+    {
+      "category_id": 28,
+      "conditions": [
+        {
+          "column_name": "description",
+          "mode": "starts_with",
+          "pattern": "Annual bonus"
+        }
+      ]
+    },
+    {
+      "category_id": 30,
+      "conditions": [
+        {
+          "column_name": "description",
+          "mode": "starts_with",
+          "pattern": "Interest"
+        }
+      ]
+    },
+    {
+      "category_id": 30,
+      "conditions": [
+        {
+          "column_name": "description",
+          "mode": "starts_with",
+          "pattern": "Bond distribution"
+        }
+      ]
+    },
+    {
+      "category_id": 31,
+      "conditions": [
+        {
+          "column_name": "description",
+          "mode": "starts_with",
+          "pattern": "Dividend"
+        }
+      ]
+    },
+    {
+      "category_id": 41,
+      "conditions": [
+        {
+          "column_name": "description",
+          "mode": "starts_with",
+          "pattern": "Brokerage fee"
+        }
+      ]
+    },
+    {
+      "category_id": 42,
+      "conditions": [
+        {
+          "column_name": "description",
+          "mode": "starts_with",
+          "pattern": "Gold custody fee"
+        }
+      ]
+    },
+    {
+      "category_id": 43,
+      "conditions": [
+        {
+          "column_name": "description",
+          "mode": "starts_with",
+          "pattern": "Bond custody fee"
+        }
+      ]
+    },
+    {
+      "category_id": 45,
+      "conditions": [
+        {
+          "column_name": "description",
+          "mode": "starts_with",
+          "pattern": "Phone transfer to"
+        }
+      ]
+    },
+    {
+      "category_id": 46,
+      "conditions": [
+        {
+          "column_name": "description",
+          "mode": "starts_with",
+          "pattern": "Phone repayment from"
+        }
+      ]
+    },
+    {
+      "category_id": 48,
+      "conditions": [
+        {
+          "column_name": "description",
+          "mode": "starts_with",
+          "pattern": "Internal transfer"
+        }
+      ]
+    },
+    {
+      "category_id": 49,
+      "conditions": [
+        {
+          "column_name": "description",
+          "mode": "starts_with",
+          "pattern": "FX transfer"
+        }
+      ]
+    },
+    {
+      "category_id": 12,
+      "conditions": [
+        {
+          "column_name": "from_to",
+          "mode": "literal",
+          "pattern": "MOL"
+        },
+        {
+          "column_name": "description",
+          "mode": "not_contains",
+          "pattern": "hot dog"
+        }
+      ]
+    }
+  ]
+}

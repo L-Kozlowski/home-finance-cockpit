@@ -1,0 +1,18 @@
+-c requirements-runtime-lock.txt
+# Python 3.12; runtime dependencies verified in this project's environment.
+# Qt desktop interface and SVG branding.
+PyQt6==6.11.0
+# Charts in the application and exported reports.
+matplotlib==3.10.9
+# Numeric arrays used directly by application charts.
+numpy==2.4.4
+# PDF report generation.
+reportlab==5.0.1
+# Reading Excel workbooks (XLSX / XLSM).
+openpyxl==3.1.5
+# Pin openpyxl's XML dependency for reproducible installations.
+et_xmlfile==2.0.0
+# Optional database file encryption; bundled SQLCipher engine.
+sqlcipher3==0.6.4
+# Image processing used directly by PDF reports.
+pillow==13.0.0

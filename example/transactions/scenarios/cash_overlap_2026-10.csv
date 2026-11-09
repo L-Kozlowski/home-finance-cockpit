@@ -1,0 +1,5 @@
+﻿Date,Amount,Description,Counterparty,Currency,Status,Transaction ID,Balance
+2026-10-05,300.00,Internal transfer | Cash withdrawal | Main account to Cash wallet,James Wilson | Own accounts,PLN,COMPLETED,HFC-20261005-00566,
+2026-10-10,-36.00,Cash payment | Food and coffee,STARBUCKS,PLN,COMPLETED,HFC-20261010-00606,
+2026-10-29,-45.10,Additional groceries,LIDL,PLN,COMPLETED,HFC-OVERLAP-001,
+2026-10-30,-17.90,Additional coffee,STARBUCKS,PLN,COMPLETED,HFC-OVERLAP-002,

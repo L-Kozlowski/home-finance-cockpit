@@ -1,0 +1,161 @@
+{
+    "Details": {
+        "Food": {
+            "Grocery": [
+                "AUCHAN",
+                "BIEDRONKA",
+                "KAUFLAND",
+                "ZABKA",
+                "WYPIEKI",
+                "AWITEKS",
+                "LAJKONIK",
+                "NETTO",
+                "GORSMAK",
+                "LIDL",
+                "AVITA",
+                "KACZMARCZYK",
+                "CARREFOUR",
+                "SKLEP SPOZYWCZO",
+                "PIEKARNIA"
+            ],
+            "Catering": [
+                "BISTRO",
+                "SANDWICH",
+                "PIZZA",
+                "Schronisko",
+                "To Go",
+                "SLIMAK",
+                "KATERINGOWO",
+                "ZIELONY KOSZYK",
+                "McDonalds",
+                "URBAN COFFEE",
+                "Glovo"
+            ]
+        },
+        "FreeTime": {
+            "Activities": [
+                "Multikino",
+                "Klub Studio",
+                "Instant Gaming",
+                "Roztoczański Park",
+                "eBilet",
+                "RAKUTEN",
+                "Klub Zdobywców",
+                "Klub Studencki Zasciane",
+                "BALICE",
+                "LIVE STAGE WROCLAW",
+                "HALA CENTRALNA",
+                "BONARKA CITY",
+                "OSB PALENICA GŁÓWNA"
+            ],
+            "BarAndFood": [
+                "STARY KLASZTOR",
+                "restaurant",
+                "SPAGHETTERIA",
+                "MERCY BROWN",
+                "MTP POZNAN",
+                "MTP  POZNAN",
+                "CRAFTOWNIA",
+                "PASIBUS",
+                "RAMEN",
+                "Klub Studencki Filutek",
+                "ROUTE 66",
+                "GALERIA RYNEK18",
+                "Rynek 19",
+                "DM PTAK SPOLKA JAWN POZNAN"
+            ],
+            "Hotels": [
+                "AIRBNB"
+            ]
+        },
+        "Mandatory": {
+            "Additional": [
+                "YouTube",
+                "Storytel"
+            ],
+            "Internet": [
+                "Play"
+            ],
+            "Insurance": [
+                "PZU",
+                "WARTA",
+                "POWSZECHNY ZAKŁAD UBEZPIE"
+            ]
+        },
+        "Medical": {
+            "Dentist": [
+                "DENTIST"
+            ],
+            "Pharmacy": [
+                "APTEKA"
+            ],
+            "Medical": [
+                "LUX MED",
+                "Q-Optyk"
+            ]
+        },
+        "Occasional": {
+            "OnlineShopping": [
+                "ALLEGRO",
+                "Amazon",
+                "Vinted",
+                "Sinsay",
+                "EMPIK",
+                "Decathlon",
+                "Action",
+                "MEDICINE",
+                "MARTES SPORT",
+                "PASMANTERIA",
+                "HOUSE"
+            ],
+            "Cosmetics": [
+                "ROSSMANN",
+                "HEBE"
+            ],
+            "Electronics": [
+                "MEDIAEXPERT",
+                "MEDIA MARKT",
+                "EURO-NET",
+                "AMSO"
+            ],
+            "Home": [
+                "MAKRO",
+                "OBI",
+                "Leroy Merlin",
+                "IKEA",
+                "Multiserwis",
+                "JULA"
+            ]
+        },
+        "Revolut": {
+            "Revolut": [
+                "Revolut"
+            ]
+        },
+        "Transport": {
+            "Car": [
+                "MOL",
+                "BP",
+                "ORLEN",
+                "Parking",
+                "MOYA",
+                "TRAFFIC",
+                "ROYAL SERVICE",
+                "STACJA PALIW",
+                "EKO TANKO"
+            ],
+            "Taxi": [
+                "Uber"
+            ],
+            "Transport": [
+                "jakdojade"
+            ]
+        },
+        "AccountFunding": {
+            "TopUp": [
+                "Zasilenie",
+                "Zasilanie"
+            ]
+        }
+    }
+}

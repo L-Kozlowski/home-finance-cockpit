@@ -1,0 +1,3367 @@
+{
+  "version": 2,
+  "language": "en",
+  "year": 2026,
+  "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08",
+    "2026-09",
+    "2026-10"
+  ],
+  "person": "James Wilson",
+  "wallets": [
+    {
+      "key": "main_account",
+      "name": "Main account",
+      "currency": "PLN",
+      "opening": "24000.00",
+      "icon": "bank",
+      "opening_date": "2026-01-01"
+    },
+    {
+      "key": "emergency_savings",
+      "name": "Emergency savings",
+      "currency": "PLN",
+      "opening": "24000.00",
+      "icon": "savings",
+      "opening_date": "2026-01-01"
+    },
+    {
+      "key": "revolut_travel",
+      "name": "Revolut Travel",
+      "currency": "EUR",
+      "opening": "800.00",
+      "icon": "travel",
+      "opening_date": "2026-01-01"
+    },
+    {
+      "key": "investment_usd",
+      "name": "Investments",
+      "currency": "USD",
+      "opening": "5000.00",
+      "icon": "business",
+      "opening_date": "2026-01-01"
+    },
+    {
+      "key": "gold_usd",
+      "name": "Gold reserve",
+      "currency": "USD",
+      "opening": "1500.00",
+      "icon": "shield",
+      "opening_date": "2026-01-01"
+    },
+    {
+      "key": "bonds",
+      "name": "Bond portfolio",
+      "currency": "PLN",
+      "opening": "12000.00",
+      "icon": "bank",
+      "opening_date": "2026-01-01"
+    },
+    {
+      "key": "cash",
+      "name": "Cash wallet",
+      "currency": "PLN",
+      "opening": "600.00",
+      "icon": "cash",
+      "opening_date": "2026-01-01"
+    }
+  ],
+  "imports": [
+    {
+      "wallet": "main_account",
+      "file": "transactions/main_account/main_account_2026-01.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount_mode": "split",
+        "debit": "Debit",
+        "credit": "Credit"
+      },
+      "delimiter": ";"
+    },
+    {
+      "wallet": "main_account",
+      "file": "transactions/main_account/main_account_2026-02.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount_mode": "split",
+        "debit": "Debit",
+        "credit": "Credit"
+      },
+      "delimiter": ";"
+    },
+    {
+      "wallet": "main_account",
+      "file": "transactions/main_account/main_account_2026-03.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount_mode": "split",
+        "debit": "Debit",
+        "credit": "Credit"
+      },
+      "delimiter": ";"
+    },
+    {
+      "wallet": "main_account",
+      "file": "transactions/main_account/main_account_2026-04.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount_mode": "split",
+        "debit": "Debit",
+        "credit": "Credit"
+      },
+      "delimiter": ";"
+    },
+    {
+      "wallet": "main_account",
+      "file": "transactions/main_account/main_account_2026-05.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount_mode": "split",
+        "debit": "Debit",
+        "credit": "Credit"
+      },
+      "delimiter": ";"
+    },
+    {
+      "wallet": "main_account",
+      "file": "transactions/main_account/main_account_2026-06.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount_mode": "split",
+        "debit": "Debit",
+        "credit": "Credit"
+      },
+      "delimiter": ";"
+    },
+    {
+      "wallet": "main_account",
+      "file": "transactions/main_account/main_account_2026-07.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount_mode": "split",
+        "debit": "Debit",
+        "credit": "Credit"
+      },
+      "delimiter": ";"
+    },
+    {
+      "wallet": "main_account",
+      "file": "transactions/main_account/main_account_2026-08.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount_mode": "split",
+        "debit": "Debit",
+        "credit": "Credit"
+      },
+      "delimiter": ";"
+    },
+    {
+      "wallet": "main_account",
+      "file": "transactions/main_account/main_account_2026-09.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount_mode": "split",
+        "debit": "Debit",
+        "credit": "Credit"
+      },
+      "delimiter": ";"
+    },
+    {
+      "wallet": "main_account",
+      "file": "transactions/main_account/main_account_2026-10.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount_mode": "split",
+        "debit": "Debit",
+        "credit": "Credit"
+      },
+      "delimiter": ";"
+    },
+    {
+      "wallet": "emergency_savings",
+      "file": "transactions/emergency_savings/emergency_savings_2026-01.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "emergency_savings",
+      "file": "transactions/emergency_savings/emergency_savings_2026-02.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "emergency_savings",
+      "file": "transactions/emergency_savings/emergency_savings_2026-03.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "emergency_savings",
+      "file": "transactions/emergency_savings/emergency_savings_2026-04.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "emergency_savings",
+      "file": "transactions/emergency_savings/emergency_savings_2026-05.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "emergency_savings",
+      "file": "transactions/emergency_savings/emergency_savings_2026-06.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "emergency_savings",
+      "file": "transactions/emergency_savings/emergency_savings_2026-07.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "emergency_savings",
+      "file": "transactions/emergency_savings/emergency_savings_2026-08.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "emergency_savings",
+      "file": "transactions/emergency_savings/emergency_savings_2026-09.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "emergency_savings",
+      "file": "transactions/emergency_savings/emergency_savings_2026-10.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "revolut_travel",
+      "file": "transactions/revolut_travel/revolut_travel_2026-01.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "revolut_travel",
+      "file": "transactions/revolut_travel/revolut_travel_2026-02.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "revolut_travel",
+      "file": "transactions/revolut_travel/revolut_travel_2026-03.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "revolut_travel",
+      "file": "transactions/revolut_travel/revolut_travel_2026-04.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "revolut_travel",
+      "file": "transactions/revolut_travel/revolut_travel_2026-05.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "revolut_travel",
+      "file": "transactions/revolut_travel/revolut_travel_2026-06.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "revolut_travel",
+      "file": "transactions/revolut_travel/revolut_travel_2026-07.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "revolut_travel",
+      "file": "transactions/revolut_travel/revolut_travel_2026-08.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "revolut_travel",
+      "file": "transactions/revolut_travel/revolut_travel_2026-09.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "revolut_travel",
+      "file": "transactions/revolut_travel/revolut_travel_2026-10.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "investment_usd",
+      "file": "transactions/investment_usd/investment_usd_2026-01.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "investment_usd",
+      "file": "transactions/investment_usd/investment_usd_2026-02.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "investment_usd",
+      "file": "transactions/investment_usd/investment_usd_2026-03.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "investment_usd",
+      "file": "transactions/investment_usd/investment_usd_2026-04.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "investment_usd",
+      "file": "transactions/investment_usd/investment_usd_2026-05.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "investment_usd",
+      "file": "transactions/investment_usd/investment_usd_2026-06.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "investment_usd",
+      "file": "transactions/investment_usd/investment_usd_2026-07.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "investment_usd",
+      "file": "transactions/investment_usd/investment_usd_2026-08.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "investment_usd",
+      "file": "transactions/investment_usd/investment_usd_2026-09.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "investment_usd",
+      "file": "transactions/investment_usd/investment_usd_2026-10.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "gold_usd",
+      "file": "transactions/gold_usd/gold_usd_2026-01.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "gold_usd",
+      "file": "transactions/gold_usd/gold_usd_2026-02.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "gold_usd",
+      "file": "transactions/gold_usd/gold_usd_2026-03.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "gold_usd",
+      "file": "transactions/gold_usd/gold_usd_2026-04.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "gold_usd",
+      "file": "transactions/gold_usd/gold_usd_2026-05.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "gold_usd",
+      "file": "transactions/gold_usd/gold_usd_2026-06.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "gold_usd",
+      "file": "transactions/gold_usd/gold_usd_2026-07.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "gold_usd",
+      "file": "transactions/gold_usd/gold_usd_2026-08.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "gold_usd",
+      "file": "transactions/gold_usd/gold_usd_2026-09.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "gold_usd",
+      "file": "transactions/gold_usd/gold_usd_2026-10.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "bonds",
+      "file": "transactions/bonds/bonds_2026-01.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "bonds",
+      "file": "transactions/bonds/bonds_2026-02.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "bonds",
+      "file": "transactions/bonds/bonds_2026-03.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "bonds",
+      "file": "transactions/bonds/bonds_2026-04.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "bonds",
+      "file": "transactions/bonds/bonds_2026-05.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "bonds",
+      "file": "transactions/bonds/bonds_2026-06.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "bonds",
+      "file": "transactions/bonds/bonds_2026-07.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "bonds",
+      "file": "transactions/bonds/bonds_2026-08.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "bonds",
+      "file": "transactions/bonds/bonds_2026-09.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "bonds",
+      "file": "transactions/bonds/bonds_2026-10.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "cash",
+      "file": "transactions/cash/cash_2026-01.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "cash",
+      "file": "transactions/cash/cash_2026-02.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "cash",
+      "file": "transactions/cash/cash_2026-03.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "cash",
+      "file": "transactions/cash/cash_2026-04.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "cash",
+      "file": "transactions/cash/cash_2026-05.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "cash",
+      "file": "transactions/cash/cash_2026-06.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "cash",
+      "file": "transactions/cash/cash_2026-07.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "cash",
+      "file": "transactions/cash/cash_2026-08.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "cash",
+      "file": "transactions/cash/cash_2026-09.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    },
+    {
+      "wallet": "cash",
+      "file": "transactions/cash/cash_2026-10.csv",
+      "mapping": {
+        "date": "Date",
+        "description": "Description",
+        "from_to": "Counterparty",
+        "currency": "Currency",
+        "status": "Status",
+        "external_id": "Transaction ID",
+        "amount": "Amount"
+      },
+      "delimiter": ","
+    }
+  ],
+  "exchange_rates": {
+    "EUR": "4.30",
+    "USD": "4.00"
+  },
+  "transactions": {
+    "HFC-20260101-00001": {
+      "analysis_kind": "salary",
+      "include_in_reports": true
+    },
+    "HFC-20260102-00002": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260102-00003": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260103-00004": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260103-00005": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260103-00006": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260103-00007": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260104-00008": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260104-00009": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260104-00010": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260104-00011": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260105-00012": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260105-00013": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260201-00061": {
+      "analysis_kind": "salary",
+      "include_in_reports": true
+    },
+    "HFC-20260202-00062": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260202-00063": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260203-00064": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260203-00065": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260203-00066": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260203-00067": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260204-00068": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260204-00069": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260204-00070": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260204-00071": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260205-00072": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260205-00073": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260225-00113": {
+      "analysis_kind": "reimbursement",
+      "include_in_reports": true
+    },
+    "HFC-20260301-00124": {
+      "analysis_kind": "salary",
+      "include_in_reports": true
+    },
+    "HFC-20260301-00125": {
+      "analysis_kind": "salary",
+      "include_in_reports": true
+    },
+    "HFC-20260302-00126": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260302-00127": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260303-00128": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260303-00129": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260303-00130": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260303-00131": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260304-00132": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260304-00133": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260304-00134": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260304-00135": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260305-00136": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260305-00137": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260401-00186": {
+      "analysis_kind": "salary",
+      "include_in_reports": true
+    },
+    "HFC-20260402-00187": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260402-00188": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260403-00189": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260403-00190": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260403-00191": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260403-00192": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260404-00193": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260404-00194": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260404-00195": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260404-00196": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260405-00197": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260405-00198": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260425-00236": {
+      "analysis_kind": "reimbursement",
+      "include_in_reports": true
+    },
+    "HFC-20260501-00247": {
+      "analysis_kind": "salary",
+      "include_in_reports": true
+    },
+    "HFC-20260502-00248": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260502-00249": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260503-00250": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260503-00251": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260503-00252": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260503-00253": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260504-00254": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260504-00255": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260504-00256": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260504-00257": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260505-00258": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260505-00259": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260601-00307": {
+      "analysis_kind": "salary",
+      "include_in_reports": true
+    },
+    "HFC-20260602-00308": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260602-00309": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260603-00310": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260603-00311": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260603-00312": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260603-00313": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260604-00314": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260604-00315": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260604-00316": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260604-00317": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260605-00318": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260605-00319": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260625-00359": {
+      "analysis_kind": "reimbursement",
+      "include_in_reports": true
+    },
+    "HFC-20260701-00370": {
+      "analysis_kind": "salary",
+      "include_in_reports": true
+    },
+    "HFC-20260702-00371": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260702-00372": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260703-00373": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260703-00374": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260703-00375": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260703-00376": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260704-00377": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260704-00378": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260704-00379": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260704-00380": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260705-00381": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260705-00382": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260801-00430": {
+      "analysis_kind": "salary",
+      "include_in_reports": true
+    },
+    "HFC-20260802-00431": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260802-00432": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260803-00433": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260803-00434": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260803-00435": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260803-00436": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260804-00437": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260804-00438": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260804-00439": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260804-00440": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260805-00441": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260805-00442": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260825-00481": {
+      "analysis_kind": "reimbursement",
+      "include_in_reports": true
+    },
+    "HFC-20260901-00492": {
+      "analysis_kind": "salary",
+      "include_in_reports": true
+    },
+    "HFC-20260901-00493": {
+      "analysis_kind": "salary",
+      "include_in_reports": true
+    },
+    "HFC-20260902-00494": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260902-00495": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260903-00496": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260903-00497": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260903-00498": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260903-00499": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260904-00500": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260904-00501": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260904-00502": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260904-00503": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260905-00504": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260905-00505": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20261001-00554": {
+      "analysis_kind": "salary",
+      "include_in_reports": true
+    },
+    "HFC-20261002-00555": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20261002-00556": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20261003-00557": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20261003-00558": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20261003-00559": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20261003-00560": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20261004-00561": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20261004-00562": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20261004-00563": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20261004-00564": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20261005-00565": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20261005-00566": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20261025-00605": {
+      "analysis_kind": "reimbursement",
+      "include_in_reports": true
+    },
+    "HFC-20260417-00618": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260417-00619": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260327-00626": {
+      "analysis_kind": "refund",
+      "include_in_reports": true
+    },
+    "HFC-20260605-00628": {
+      "analysis_kind": "refund",
+      "include_in_reports": true
+    },
+    "HFC-20260628-00631": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260628-00632": {
+      "analysis_kind": "transfer",
+      "include_in_reports": true
+    },
+    "HFC-20260220-00657": {
+      "analysis_kind": "standard",
+      "include_in_reports": false
+    },
+    "HFC-20260226-00658": {
+      "analysis_kind": "reimbursement",
+      "include_in_reports": false
+    },
+    "HFC-20260920-00659": {
+      "analysis_kind": "standard",
+      "include_in_reports": false
+    },
+    "HFC-20260926-00660": {
+      "analysis_kind": "reimbursement",
+      "include_in_reports": false
+    },
+    "HFC-20260224-00661": {
+      "analysis_kind": "standard",
+      "include_in_reports": true,
+      "category_path": [
+        "Housing",
+        "Furniture and home"
+      ]
+    }
+  },
+  "transfers": [
+    {
+      "debit": "HFC-20260102-00002",
+      "credit": "HFC-20260102-00003",
+      "source": "main_account",
+      "target": "emergency_savings",
+      "paid": "2300.00",
+      "received": "2300",
+      "date": "2026-01-02"
+    },
+    {
+      "debit": "HFC-20260103-00004",
+      "credit": "HFC-20260103-00005",
+      "source": "main_account",
+      "target": "investment_usd",
+      "paid": "1600.00",
+      "received": "400",
+      "date": "2026-01-03"
+    },
+    {
+      "debit": "HFC-20260103-00006",
+      "credit": "HFC-20260103-00007",
+      "source": "main_account",
+      "target": "gold_usd",
+      "paid": "600.00",
+      "received": "150",
+      "date": "2026-01-03"
+    },
+    {
+      "debit": "HFC-20260104-00008",
+      "credit": "HFC-20260104-00009",
+      "source": "main_account",
+      "target": "bonds",
+      "paid": "900.00",
+      "received": "900",
+      "date": "2026-01-04"
+    },
+    {
+      "debit": "HFC-20260104-00010",
+      "credit": "HFC-20260104-00011",
+      "source": "main_account",
+      "target": "revolut_travel",
+      "paid": "860.00",
+      "received": "200",
+      "date": "2026-01-04"
+    },
+    {
+      "debit": "HFC-20260105-00012",
+      "credit": "HFC-20260105-00013",
+      "source": "main_account",
+      "target": "cash",
+      "paid": "300.00",
+      "received": "300",
+      "date": "2026-01-05"
+    },
+    {
+      "debit": "HFC-20260202-00062",
+      "credit": "HFC-20260202-00063",
+      "source": "main_account",
+      "target": "emergency_savings",
+      "paid": "2300.00",
+      "received": "2300",
+      "date": "2026-02-02"
+    },
+    {
+      "debit": "HFC-20260203-00064",
+      "credit": "HFC-20260203-00065",
+      "source": "main_account",
+      "target": "investment_usd",
+      "paid": "1600.00",
+      "received": "400",
+      "date": "2026-02-03"
+    },
+    {
+      "debit": "HFC-20260203-00066",
+      "credit": "HFC-20260203-00067",
+      "source": "main_account",
+      "target": "gold_usd",
+      "paid": "600.00",
+      "received": "150",
+      "date": "2026-02-03"
+    },
+    {
+      "debit": "HFC-20260204-00068",
+      "credit": "HFC-20260204-00069",
+      "source": "main_account",
+      "target": "bonds",
+      "paid": "900.00",
+      "received": "900",
+      "date": "2026-02-04"
+    },
+    {
+      "debit": "HFC-20260204-00070",
+      "credit": "HFC-20260204-00071",
+      "source": "main_account",
+      "target": "revolut_travel",
+      "paid": "860.00",
+      "received": "200",
+      "date": "2026-02-04"
+    },
+    {
+      "debit": "HFC-20260205-00072",
+      "credit": "HFC-20260205-00073",
+      "source": "main_account",
+      "target": "cash",
+      "paid": "300.00",
+      "received": "300",
+      "date": "2026-02-05"
+    },
+    {
+      "debit": "HFC-20260302-00126",
+      "credit": "HFC-20260302-00127",
+      "source": "main_account",
+      "target": "emergency_savings",
+      "paid": "2300.00",
+      "received": "2300",
+      "date": "2026-03-02"
+    },
+    {
+      "debit": "HFC-20260303-00128",
+      "credit": "HFC-20260303-00129",
+      "source": "main_account",
+      "target": "investment_usd",
+      "paid": "1600.00",
+      "received": "400",
+      "date": "2026-03-03"
+    },
+    {
+      "debit": "HFC-20260303-00130",
+      "credit": "HFC-20260303-00131",
+      "source": "main_account",
+      "target": "gold_usd",
+      "paid": "600.00",
+      "received": "150",
+      "date": "2026-03-03"
+    },
+    {
+      "debit": "HFC-20260304-00132",
+      "credit": "HFC-20260304-00133",
+      "source": "main_account",
+      "target": "bonds",
+      "paid": "900.00",
+      "received": "900",
+      "date": "2026-03-04"
+    },
+    {
+      "debit": "HFC-20260304-00134",
+      "credit": "HFC-20260304-00135",
+      "source": "main_account",
+      "target": "revolut_travel",
+      "paid": "860.00",
+      "received": "200",
+      "date": "2026-03-04"
+    },
+    {
+      "debit": "HFC-20260305-00136",
+      "credit": "HFC-20260305-00137",
+      "source": "main_account",
+      "target": "cash",
+      "paid": "300.00",
+      "received": "300",
+      "date": "2026-03-05"
+    },
+    {
+      "debit": "HFC-20260402-00187",
+      "credit": "HFC-20260402-00188",
+      "source": "main_account",
+      "target": "emergency_savings",
+      "paid": "2300.00",
+      "received": "2300",
+      "date": "2026-04-02"
+    },
+    {
+      "debit": "HFC-20260403-00189",
+      "credit": "HFC-20260403-00190",
+      "source": "main_account",
+      "target": "investment_usd",
+      "paid": "1600.00",
+      "received": "400",
+      "date": "2026-04-03"
+    },
+    {
+      "debit": "HFC-20260403-00191",
+      "credit": "HFC-20260403-00192",
+      "source": "main_account",
+      "target": "gold_usd",
+      "paid": "600.00",
+      "received": "150",
+      "date": "2026-04-03"
+    },
+    {
+      "debit": "HFC-20260404-00193",
+      "credit": "HFC-20260404-00194",
+      "source": "main_account",
+      "target": "bonds",
+      "paid": "900.00",
+      "received": "900",
+      "date": "2026-04-04"
+    },
+    {
+      "debit": "HFC-20260404-00195",
+      "credit": "HFC-20260404-00196",
+      "source": "main_account",
+      "target": "revolut_travel",
+      "paid": "860.00",
+      "received": "200",
+      "date": "2026-04-04"
+    },
+    {
+      "debit": "HFC-20260405-00197",
+      "credit": "HFC-20260405-00198",
+      "source": "main_account",
+      "target": "cash",
+      "paid": "300.00",
+      "received": "300",
+      "date": "2026-04-05"
+    },
+    {
+      "debit": "HFC-20260502-00248",
+      "credit": "HFC-20260502-00249",
+      "source": "main_account",
+      "target": "emergency_savings",
+      "paid": "2300.00",
+      "received": "2300",
+      "date": "2026-05-02"
+    },
+    {
+      "debit": "HFC-20260503-00250",
+      "credit": "HFC-20260503-00251",
+      "source": "main_account",
+      "target": "investment_usd",
+      "paid": "1600.00",
+      "received": "400",
+      "date": "2026-05-03"
+    },
+    {
+      "debit": "HFC-20260503-00252",
+      "credit": "HFC-20260503-00253",
+      "source": "main_account",
+      "target": "gold_usd",
+      "paid": "600.00",
+      "received": "150",
+      "date": "2026-05-03"
+    },
+    {
+      "debit": "HFC-20260504-00254",
+      "credit": "HFC-20260504-00255",
+      "source": "main_account",
+      "target": "bonds",
+      "paid": "900.00",
+      "received": "900",
+      "date": "2026-05-04"
+    },
+    {
+      "debit": "HFC-20260504-00256",
+      "credit": "HFC-20260504-00257",
+      "source": "main_account",
+      "target": "revolut_travel",
+      "paid": "860.00",
+      "received": "200",
+      "date": "2026-05-04"
+    },
+    {
+      "debit": "HFC-20260505-00258",
+      "credit": "HFC-20260505-00259",
+      "source": "main_account",
+      "target": "cash",
+      "paid": "300.00",
+      "received": "300",
+      "date": "2026-05-05"
+    },
+    {
+      "debit": "HFC-20260602-00308",
+      "credit": "HFC-20260602-00309",
+      "source": "main_account",
+      "target": "emergency_savings",
+      "paid": "2300.00",
+      "received": "2300",
+      "date": "2026-06-02"
+    },
+    {
+      "debit": "HFC-20260603-00310",
+      "credit": "HFC-20260603-00311",
+      "source": "main_account",
+      "target": "investment_usd",
+      "paid": "1600.00",
+      "received": "400",
+      "date": "2026-06-03"
+    },
+    {
+      "debit": "HFC-20260603-00312",
+      "credit": "HFC-20260603-00313",
+      "source": "main_account",
+      "target": "gold_usd",
+      "paid": "600.00",
+      "received": "150",
+      "date": "2026-06-03"
+    },
+    {
+      "debit": "HFC-20260604-00314",
+      "credit": "HFC-20260604-00315",
+      "source": "main_account",
+      "target": "bonds",
+      "paid": "900.00",
+      "received": "900",
+      "date": "2026-06-04"
+    },
+    {
+      "debit": "HFC-20260604-00316",
+      "credit": "HFC-20260604-00317",
+      "source": "main_account",
+      "target": "revolut_travel",
+      "paid": "860.00",
+      "received": "200",
+      "date": "2026-06-04"
+    },
+    {
+      "debit": "HFC-20260605-00318",
+      "credit": "HFC-20260605-00319",
+      "source": "main_account",
+      "target": "cash",
+      "paid": "300.00",
+      "received": "300",
+      "date": "2026-06-05"
+    },
+    {
+      "debit": "HFC-20260702-00371",
+      "credit": "HFC-20260702-00372",
+      "source": "main_account",
+      "target": "emergency_savings",
+      "paid": "2300.00",
+      "received": "2300",
+      "date": "2026-07-02"
+    },
+    {
+      "debit": "HFC-20260703-00373",
+      "credit": "HFC-20260703-00374",
+      "source": "main_account",
+      "target": "investment_usd",
+      "paid": "1600.00",
+      "received": "400",
+      "date": "2026-07-03"
+    },
+    {
+      "debit": "HFC-20260703-00375",
+      "credit": "HFC-20260703-00376",
+      "source": "main_account",
+      "target": "gold_usd",
+      "paid": "600.00",
+      "received": "150",
+      "date": "2026-07-03"
+    },
+    {
+      "debit": "HFC-20260704-00377",
+      "credit": "HFC-20260704-00378",
+      "source": "main_account",
+      "target": "bonds",
+      "paid": "900.00",
+      "received": "900",
+      "date": "2026-07-04"
+    },
+    {
+      "debit": "HFC-20260704-00379",
+      "credit": "HFC-20260704-00380",
+      "source": "main_account",
+      "target": "revolut_travel",
+      "paid": "860.00",
+      "received": "200",
+      "date": "2026-07-04"
+    },
+    {
+      "debit": "HFC-20260705-00381",
+      "credit": "HFC-20260705-00382",
+      "source": "main_account",
+      "target": "cash",
+      "paid": "300.00",
+      "received": "300",
+      "date": "2026-07-05"
+    },
+    {
+      "debit": "HFC-20260802-00431",
+      "credit": "HFC-20260802-00432",
+      "source": "main_account",
+      "target": "emergency_savings",
+      "paid": "2300.00",
+      "received": "2300",
+      "date": "2026-08-02"
+    },
+    {
+      "debit": "HFC-20260803-00433",
+      "credit": "HFC-20260803-00434",
+      "source": "main_account",
+      "target": "investment_usd",
+      "paid": "1600.00",
+      "received": "400",
+      "date": "2026-08-03"
+    },
+    {
+      "debit": "HFC-20260803-00435",
+      "credit": "HFC-20260803-00436",
+      "source": "main_account",
+      "target": "gold_usd",
+      "paid": "600.00",
+      "received": "150",
+      "date": "2026-08-03"
+    },
+    {
+      "debit": "HFC-20260804-00437",
+      "credit": "HFC-20260804-00438",
+      "source": "main_account",
+      "target": "bonds",
+      "paid": "900.00",
+      "received": "900",
+      "date": "2026-08-04"
+    },
+    {
+      "debit": "HFC-20260804-00439",
+      "credit": "HFC-20260804-00440",
+      "source": "main_account",
+      "target": "revolut_travel",
+      "paid": "860.00",
+      "received": "200",
+      "date": "2026-08-04"
+    },
+    {
+      "debit": "HFC-20260805-00441",
+      "credit": "HFC-20260805-00442",
+      "source": "main_account",
+      "target": "cash",
+      "paid": "300.00",
+      "received": "300",
+      "date": "2026-08-05"
+    },
+    {
+      "debit": "HFC-20260902-00494",
+      "credit": "HFC-20260902-00495",
+      "source": "main_account",
+      "target": "emergency_savings",
+      "paid": "2300.00",
+      "received": "2300",
+      "date": "2026-09-02"
+    },
+    {
+      "debit": "HFC-20260903-00496",
+      "credit": "HFC-20260903-00497",
+      "source": "main_account",
+      "target": "investment_usd",
+      "paid": "1600.00",
+      "received": "400",
+      "date": "2026-09-03"
+    },
+    {
+      "debit": "HFC-20260903-00498",
+      "credit": "HFC-20260903-00499",
+      "source": "main_account",
+      "target": "gold_usd",
+      "paid": "600.00",
+      "received": "150",
+      "date": "2026-09-03"
+    },
+    {
+      "debit": "HFC-20260904-00500",
+      "credit": "HFC-20260904-00501",
+      "source": "main_account",
+      "target": "bonds",
+      "paid": "900.00",
+      "received": "900",
+      "date": "2026-09-04"
+    },
+    {
+      "debit": "HFC-20260904-00502",
+      "credit": "HFC-20260904-00503",
+      "source": "main_account",
+      "target": "revolut_travel",
+      "paid": "860.00",
+      "received": "200",
+      "date": "2026-09-04"
+    },
+    {
+      "debit": "HFC-20260905-00504",
+      "credit": "HFC-20260905-00505",
+      "source": "main_account",
+      "target": "cash",
+      "paid": "300.00",
+      "received": "300",
+      "date": "2026-09-05"
+    },
+    {
+      "debit": "HFC-20261002-00555",
+      "credit": "HFC-20261002-00556",
+      "source": "main_account",
+      "target": "emergency_savings",
+      "paid": "2300.00",
+      "received": "2300",
+      "date": "2026-10-02"
+    },
+    {
+      "debit": "HFC-20261003-00557",
+      "credit": "HFC-20261003-00558",
+      "source": "main_account",
+      "target": "investment_usd",
+      "paid": "1600.00",
+      "received": "400",
+      "date": "2026-10-03"
+    },
+    {
+      "debit": "HFC-20261003-00559",
+      "credit": "HFC-20261003-00560",
+      "source": "main_account",
+      "target": "gold_usd",
+      "paid": "600.00",
+      "received": "150",
+      "date": "2026-10-03"
+    },
+    {
+      "debit": "HFC-20261004-00561",
+      "credit": "HFC-20261004-00562",
+      "source": "main_account",
+      "target": "bonds",
+      "paid": "900.00",
+      "received": "900",
+      "date": "2026-10-04"
+    },
+    {
+      "debit": "HFC-20261004-00563",
+      "credit": "HFC-20261004-00564",
+      "source": "main_account",
+      "target": "revolut_travel",
+      "paid": "860.00",
+      "received": "200",
+      "date": "2026-10-04"
+    },
+    {
+      "debit": "HFC-20261005-00565",
+      "credit": "HFC-20261005-00566",
+      "source": "main_account",
+      "target": "cash",
+      "paid": "300.00",
+      "received": "300",
+      "date": "2026-10-05"
+    },
+    {
+      "debit": "HFC-20260417-00618",
+      "credit": "HFC-20260417-00619",
+      "source": "emergency_savings",
+      "target": "main_account",
+      "paid": "22000.00",
+      "received": "22000",
+      "date": "2026-04-17"
+    },
+    {
+      "debit": "HFC-20260628-00631",
+      "credit": "HFC-20260628-00632",
+      "source": "main_account",
+      "target": "revolut_travel",
+      "paid": "3870.00",
+      "received": "900",
+      "date": "2026-06-28"
+    }
+  ],
+  "rate_history": [
+    {
+      "date": "2026-01-01",
+      "EUR": "4.3000",
+      "USD": "4.0250"
+    },
+    {
+      "date": "2026-01-02",
+      "EUR": "4.3033",
+      "USD": "4.0284"
+    },
+    {
+      "date": "2026-01-05",
+      "EUR": "4.3130",
+      "USD": "4.0367"
+    },
+    {
+      "date": "2026-01-06",
+      "EUR": "4.3162",
+      "USD": "4.0389"
+    },
+    {
+      "date": "2026-01-07",
+      "EUR": "4.3193",
+      "USD": "4.0408"
+    },
+    {
+      "date": "2026-01-08",
+      "EUR": "4.3225",
+      "USD": "4.0424"
+    },
+    {
+      "date": "2026-01-09",
+      "EUR": "4.3256",
+      "USD": "4.0438"
+    },
+    {
+      "date": "2026-01-12",
+      "EUR": "4.3345",
+      "USD": "4.0468"
+    },
+    {
+      "date": "2026-01-13",
+      "EUR": "4.3374",
+      "USD": "4.0474"
+    },
+    {
+      "date": "2026-01-14",
+      "EUR": "4.3402",
+      "USD": "4.0479"
+    },
+    {
+      "date": "2026-01-15",
+      "EUR": "4.3429",
+      "USD": "4.0484"
+    },
+    {
+      "date": "2026-01-16",
+      "EUR": "4.3455",
+      "USD": "4.0488"
+    },
+    {
+      "date": "2026-01-19",
+      "EUR": "4.3529",
+      "USD": "4.0499"
+    },
+    {
+      "date": "2026-01-20",
+      "EUR": "4.3551",
+      "USD": "4.0504"
+    },
+    {
+      "date": "2026-01-21",
+      "EUR": "4.3573",
+      "USD": "4.0510"
+    },
+    {
+      "date": "2026-01-22",
+      "EUR": "4.3594",
+      "USD": "4.0517"
+    },
+    {
+      "date": "2026-01-23",
+      "EUR": "4.3613",
+      "USD": "4.0525"
+    },
+    {
+      "date": "2026-01-26",
+      "EUR": "4.3664",
+      "USD": "4.0560"
+    },
+    {
+      "date": "2026-01-27",
+      "EUR": "4.3678",
+      "USD": "4.0576"
+    },
+    {
+      "date": "2026-01-28",
+      "EUR": "4.3692",
+      "USD": "4.0594"
+    },
+    {
+      "date": "2026-01-29",
+      "EUR": "4.3704",
+      "USD": "4.0614"
+    },
+    {
+      "date": "2026-01-30",
+      "EUR": "4.3714",
+      "USD": "4.0636"
+    },
+    {
+      "date": "2026-02-02",
+      "EUR": "4.3738",
+      "USD": "4.0715"
+    },
+    {
+      "date": "2026-02-03",
+      "EUR": "4.3743",
+      "USD": "4.0746"
+    },
+    {
+      "date": "2026-02-04",
+      "EUR": "4.3747",
+      "USD": "4.0778"
+    },
+    {
+      "date": "2026-02-05",
+      "EUR": "4.3749",
+      "USD": "4.0811"
+    },
+    {
+      "date": "2026-02-06",
+      "EUR": "4.3750",
+      "USD": "4.0846"
+    },
+    {
+      "date": "2026-02-09",
+      "EUR": "4.3744",
+      "USD": "4.0954"
+    },
+    {
+      "date": "2026-02-10",
+      "EUR": "4.3739",
+      "USD": "4.0991"
+    },
+    {
+      "date": "2026-02-11",
+      "EUR": "4.3733",
+      "USD": "4.1027"
+    },
+    {
+      "date": "2026-02-12",
+      "EUR": "4.3726",
+      "USD": "4.1063"
+    },
+    {
+      "date": "2026-02-13",
+      "EUR": "4.3717",
+      "USD": "4.1098"
+    },
+    {
+      "date": "2026-02-16",
+      "EUR": "4.3682",
+      "USD": "4.1193"
+    },
+    {
+      "date": "2026-02-17",
+      "EUR": "4.3668",
+      "USD": "4.1220"
+    },
+    {
+      "date": "2026-02-18",
+      "EUR": "4.3652",
+      "USD": "4.1245"
+    },
+    {
+      "date": "2026-02-19",
+      "EUR": "4.3636",
+      "USD": "4.1267"
+    },
+    {
+      "date": "2026-02-20",
+      "EUR": "4.3618",
+      "USD": "4.1286"
+    },
+    {
+      "date": "2026-02-23",
+      "EUR": "4.3557",
+      "USD": "4.1320"
+    },
+    {
+      "date": "2026-02-24",
+      "EUR": "4.3535",
+      "USD": "4.1324"
+    },
+    {
+      "date": "2026-02-25",
+      "EUR": "4.3511",
+      "USD": "4.1324"
+    },
+    {
+      "date": "2026-02-26",
+      "EUR": "4.3487",
+      "USD": "4.1319"
+    },
+    {
+      "date": "2026-02-27",
+      "EUR": "4.3462",
+      "USD": "4.1310"
+    },
+    {
+      "date": "2026-03-02",
+      "EUR": "4.3381",
+      "USD": "4.1260"
+    },
+    {
+      "date": "2026-03-03",
+      "EUR": "4.3353",
+      "USD": "4.1235"
+    },
+    {
+      "date": "2026-03-04",
+      "EUR": "4.3323",
+      "USD": "4.1206"
+    },
+    {
+      "date": "2026-03-05",
+      "EUR": "4.3294",
+      "USD": "4.1173"
+    },
+    {
+      "date": "2026-03-06",
+      "EUR": "4.3263",
+      "USD": "4.1138"
+    },
+    {
+      "date": "2026-03-09",
+      "EUR": "4.3170",
+      "USD": "4.1013"
+    },
+    {
+      "date": "2026-03-10",
+      "EUR": "4.3138",
+      "USD": "4.0967"
+    },
+    {
+      "date": "2026-03-11",
+      "EUR": "4.3106",
+      "USD": "4.0919"
+    },
+    {
+      "date": "2026-03-12",
+      "EUR": "4.3073",
+      "USD": "4.0869"
+    },
+    {
+      "date": "2026-03-13",
+      "EUR": "4.3041",
+      "USD": "4.0819"
+    },
+    {
+      "date": "2026-03-16",
+      "EUR": "4.2943",
+      "USD": "4.0663"
+    },
+    {
+      "date": "2026-03-17",
+      "EUR": "4.2911",
+      "USD": "4.0612"
+    },
+    {
+      "date": "2026-03-18",
+      "EUR": "4.2878",
+      "USD": "4.0561"
+    },
+    {
+      "date": "2026-03-19",
+      "EUR": "4.2846",
+      "USD": "4.0511"
+    },
+    {
+      "date": "2026-03-20",
+      "EUR": "4.2815",
+      "USD": "4.0462"
+    },
+    {
+      "date": "2026-03-23",
+      "EUR": "4.2722",
+      "USD": "4.0327"
+    },
+    {
+      "date": "2026-03-24",
+      "EUR": "4.2692",
+      "USD": "4.0286"
+    },
+    {
+      "date": "2026-03-25",
+      "EUR": "4.2662",
+      "USD": "4.0248"
+    },
+    {
+      "date": "2026-03-26",
+      "EUR": "4.2633",
+      "USD": "4.0212"
+    },
+    {
+      "date": "2026-03-27",
+      "EUR": "4.2605",
+      "USD": "4.0178"
+    },
+    {
+      "date": "2026-03-30",
+      "EUR": "4.2526",
+      "USD": "4.0094"
+    },
+    {
+      "date": "2026-03-31",
+      "EUR": "4.2501",
+      "USD": "4.0071"
+    },
+    {
+      "date": "2026-04-01",
+      "EUR": "4.2477",
+      "USD": "4.0050"
+    },
+    {
+      "date": "2026-04-02",
+      "EUR": "4.2454",
+      "USD": "4.0032"
+    },
+    {
+      "date": "2026-04-03",
+      "EUR": "4.2432",
+      "USD": "4.0016"
+    },
+    {
+      "date": "2026-04-06",
+      "EUR": "4.2373",
+      "USD": "3.9978"
+    },
+    {
+      "date": "2026-04-07",
+      "EUR": "4.2356",
+      "USD": "3.9969"
+    },
+    {
+      "date": "2026-04-08",
+      "EUR": "4.2340",
+      "USD": "3.9960"
+    },
+    {
+      "date": "2026-04-09",
+      "EUR": "4.2325",
+      "USD": "3.9952"
+    },
+    {
+      "date": "2026-04-10",
+      "EUR": "4.2312",
+      "USD": "3.9944"
+    },
+    {
+      "date": "2026-04-13",
+      "EUR": "4.2279",
+      "USD": "3.9920"
+    },
+    {
+      "date": "2026-04-14",
+      "EUR": "4.2270",
+      "USD": "3.9910"
+    },
+    {
+      "date": "2026-04-15",
+      "EUR": "4.2264",
+      "USD": "3.9900"
+    },
+    {
+      "date": "2026-04-16",
+      "EUR": "4.2258",
+      "USD": "3.9888"
+    },
+    {
+      "date": "2026-04-17",
+      "EUR": "4.2254",
+      "USD": "3.9875"
+    },
+    {
+      "date": "2026-04-20",
+      "EUR": "4.2250",
+      "USD": "3.9822"
+    },
+    {
+      "date": "2026-04-21",
+      "EUR": "4.2252",
+      "USD": "3.9800"
+    },
+    {
+      "date": "2026-04-22",
+      "EUR": "4.2255",
+      "USD": "3.9776"
+    },
+    {
+      "date": "2026-04-23",
+      "EUR": "4.2259",
+      "USD": "3.9749"
+    },
+    {
+      "date": "2026-04-24",
+      "EUR": "4.2265",
+      "USD": "3.9719"
+    },
+    {
+      "date": "2026-04-27",
+      "EUR": "4.2291",
+      "USD": "3.9616"
+    },
+    {
+      "date": "2026-04-28",
+      "EUR": "4.2302",
+      "USD": "3.9576"
+    },
+    {
+      "date": "2026-04-29",
+      "EUR": "4.2315",
+      "USD": "3.9535"
+    },
+    {
+      "date": "2026-04-30",
+      "EUR": "4.2328",
+      "USD": "3.9492"
+    },
+    {
+      "date": "2026-05-01",
+      "EUR": "4.2344",
+      "USD": "3.9447"
+    },
+    {
+      "date": "2026-05-04",
+      "EUR": "4.2396",
+      "USD": "3.9304"
+    },
+    {
+      "date": "2026-05-05",
+      "EUR": "4.2416",
+      "USD": "3.9255"
+    },
+    {
+      "date": "2026-05-06",
+      "EUR": "4.2437",
+      "USD": "3.9206"
+    },
+    {
+      "date": "2026-05-07",
+      "EUR": "4.2459",
+      "USD": "3.9157"
+    },
+    {
+      "date": "2026-05-08",
+      "EUR": "4.2483",
+      "USD": "3.9108"
+    },
+    {
+      "date": "2026-05-11",
+      "EUR": "4.2558",
+      "USD": "3.8969"
+    },
+    {
+      "date": "2026-05-12",
+      "EUR": "4.2584",
+      "USD": "3.8926"
+    },
+    {
+      "date": "2026-05-13",
+      "EUR": "4.2612",
+      "USD": "3.8885"
+    },
+    {
+      "date": "2026-05-14",
+      "EUR": "4.2640",
+      "USD": "3.8847"
+    },
+    {
+      "date": "2026-05-15",
+      "EUR": "4.2669",
+      "USD": "3.8812"
+    },
+    {
+      "date": "2026-05-18",
+      "EUR": "4.2759",
+      "USD": "3.8726"
+    },
+    {
+      "date": "2026-05-19",
+      "EUR": "4.2790",
+      "USD": "3.8705"
+    },
+    {
+      "date": "2026-05-20",
+      "EUR": "4.2822",
+      "USD": "3.8687"
+    },
+    {
+      "date": "2026-05-21",
+      "EUR": "4.2854",
+      "USD": "3.8674"
+    },
+    {
+      "date": "2026-05-22",
+      "EUR": "4.2886",
+      "USD": "3.8665"
+    },
+    {
+      "date": "2026-05-25",
+      "EUR": "4.2983",
+      "USD": "3.8663"
+    },
+    {
+      "date": "2026-05-26",
+      "EUR": "4.3016",
+      "USD": "3.8671"
+    },
+    {
+      "date": "2026-05-27",
+      "EUR": "4.3048",
+      "USD": "3.8682"
+    },
+    {
+      "date": "2026-05-28",
+      "EUR": "4.3081",
+      "USD": "3.8698"
+    },
+    {
+      "date": "2026-05-29",
+      "EUR": "4.3113",
+      "USD": "3.8717"
+    },
+    {
+      "date": "2026-06-01",
+      "EUR": "4.3209",
+      "USD": "3.8794"
+    },
+    {
+      "date": "2026-06-02",
+      "EUR": "4.3240",
+      "USD": "3.8825"
+    },
+    {
+      "date": "2026-06-03",
+      "EUR": "4.3271",
+      "USD": "3.8858"
+    },
+    {
+      "date": "2026-06-04",
+      "EUR": "4.3301",
+      "USD": "3.8894"
+    },
+    {
+      "date": "2026-06-05",
+      "EUR": "4.3330",
+      "USD": "3.8931"
+    },
+    {
+      "date": "2026-06-08",
+      "EUR": "4.3415",
+      "USD": "3.9049"
+    },
+    {
+      "date": "2026-06-09",
+      "EUR": "4.3442",
+      "USD": "3.9089"
+    },
+    {
+      "date": "2026-06-10",
+      "EUR": "4.3468",
+      "USD": "3.9129"
+    },
+    {
+      "date": "2026-06-11",
+      "EUR": "4.3493",
+      "USD": "3.9168"
+    },
+    {
+      "date": "2026-06-12",
+      "EUR": "4.3517",
+      "USD": "3.9207"
+    },
+    {
+      "date": "2026-06-15",
+      "EUR": "4.3583",
+      "USD": "3.9316"
+    },
+    {
+      "date": "2026-06-16",
+      "EUR": "4.3603",
+      "USD": "3.9349"
+    },
+    {
+      "date": "2026-06-17",
+      "EUR": "4.3622",
+      "USD": "3.9380"
+    },
+    {
+      "date": "2026-06-18",
+      "EUR": "4.3640",
+      "USD": "3.9409"
+    },
+    {
+      "date": "2026-06-19",
+      "EUR": "4.3656",
+      "USD": "3.9436"
+    },
+    {
+      "date": "2026-06-22",
+      "EUR": "4.3698",
+      "USD": "3.9504"
+    },
+    {
+      "date": "2026-06-23",
+      "EUR": "4.3709",
+      "USD": "3.9522"
+    },
+    {
+      "date": "2026-06-24",
+      "EUR": "4.3719",
+      "USD": "3.9538"
+    },
+    {
+      "date": "2026-06-25",
+      "EUR": "4.3728",
+      "USD": "3.9552"
+    },
+    {
+      "date": "2026-06-26",
+      "EUR": "4.3735",
+      "USD": "3.9564"
+    },
+    {
+      "date": "2026-06-29",
+      "EUR": "4.3748",
+      "USD": "3.9591"
+    },
+    {
+      "date": "2026-06-30",
+      "EUR": "4.3750",
+      "USD": "3.9597"
+    },
+    {
+      "date": "2026-07-01",
+      "EUR": "4.3750",
+      "USD": "3.9603"
+    },
+    {
+      "date": "2026-07-02",
+      "EUR": "4.3749",
+      "USD": "3.9609"
+    },
+    {
+      "date": "2026-07-03",
+      "EUR": "4.3746",
+      "USD": "3.9614"
+    },
+    {
+      "date": "2026-07-06",
+      "EUR": "4.3730",
+      "USD": "3.9632"
+    },
+    {
+      "date": "2026-07-07",
+      "EUR": "4.3722",
+      "USD": "3.9639"
+    },
+    {
+      "date": "2026-07-08",
+      "EUR": "4.3712",
+      "USD": "3.9648"
+    },
+    {
+      "date": "2026-07-09",
+      "EUR": "4.3701",
+      "USD": "3.9659"
+    },
+    {
+      "date": "2026-07-10",
+      "EUR": "4.3689",
+      "USD": "3.9672"
+    },
+    {
+      "date": "2026-07-13",
+      "EUR": "4.3644",
+      "USD": "3.9723"
+    },
+    {
+      "date": "2026-07-14",
+      "EUR": "4.3627",
+      "USD": "3.9746"
+    },
+    {
+      "date": "2026-07-15",
+      "EUR": "4.3609",
+      "USD": "3.9771"
+    },
+    {
+      "date": "2026-07-16",
+      "EUR": "4.3589",
+      "USD": "3.9799"
+    },
+    {
+      "date": "2026-07-17",
+      "EUR": "4.3568",
+      "USD": "3.9830"
+    },
+    {
+      "date": "2026-07-20",
+      "EUR": "4.3500",
+      "USD": "3.9941"
+    },
+    {
+      "date": "2026-07-21",
+      "EUR": "4.3475",
+      "USD": "3.9984"
+    },
+    {
+      "date": "2026-07-22",
+      "EUR": "4.3449",
+      "USD": "4.0029"
+    },
+    {
+      "date": "2026-07-23",
+      "EUR": "4.3423",
+      "USD": "4.0077"
+    },
+    {
+      "date": "2026-07-24",
+      "EUR": "4.3395",
+      "USD": "4.0127"
+    },
+    {
+      "date": "2026-07-27",
+      "EUR": "4.3309",
+      "USD": "4.0289"
+    },
+    {
+      "date": "2026-07-28",
+      "EUR": "4.3279",
+      "USD": "4.0346"
+    },
+    {
+      "date": "2026-07-29",
+      "EUR": "4.3249",
+      "USD": "4.0404"
+    },
+    {
+      "date": "2026-07-30",
+      "EUR": "4.3218",
+      "USD": "4.0462"
+    },
+    {
+      "date": "2026-07-31",
+      "EUR": "4.3186",
+      "USD": "4.0520"
+    },
+    {
+      "date": "2026-08-03",
+      "EUR": "4.3090",
+      "USD": "4.0693"
+    },
+    {
+      "date": "2026-08-04",
+      "EUR": "4.3058",
+      "USD": "4.0748"
+    },
+    {
+      "date": "2026-08-05",
+      "EUR": "4.3025",
+      "USD": "4.0802"
+    },
+    {
+      "date": "2026-08-06",
+      "EUR": "4.2992",
+      "USD": "4.0853"
+    },
+    {
+      "date": "2026-08-07",
+      "EUR": "4.2960",
+      "USD": "4.0902"
+    },
+    {
+      "date": "2026-08-10",
+      "EUR": "4.2863",
+      "USD": "4.1033"
+    },
+    {
+      "date": "2026-08-11",
+      "EUR": "4.2831",
+      "USD": "4.1070"
+    },
+    {
+      "date": "2026-08-12",
+      "EUR": "4.2799",
+      "USD": "4.1103"
+    },
+    {
+      "date": "2026-08-13",
+      "EUR": "4.2768",
+      "USD": "4.1133"
+    },
+    {
+      "date": "2026-08-14",
+      "EUR": "4.2737",
+      "USD": "4.1158"
+    },
+    {
+      "date": "2026-08-17",
+      "EUR": "4.2648",
+      "USD": "4.1211"
+    },
+    {
+      "date": "2026-08-18",
+      "EUR": "4.2620",
+      "USD": "4.1220"
+    },
+    {
+      "date": "2026-08-19",
+      "EUR": "4.2592",
+      "USD": "4.1226"
+    },
+    {
+      "date": "2026-08-20",
+      "EUR": "4.2565",
+      "USD": "4.1227"
+    },
+    {
+      "date": "2026-08-21",
+      "EUR": "4.2539",
+      "USD": "4.1225"
+    },
+    {
+      "date": "2026-08-24",
+      "EUR": "4.2466",
+      "USD": "4.1199"
+    },
+    {
+      "date": "2026-08-25",
+      "EUR": "4.2443",
+      "USD": "4.1184"
+    },
+    {
+      "date": "2026-08-26",
+      "EUR": "4.2422",
+      "USD": "4.1167"
+    },
+    {
+      "date": "2026-08-27",
+      "EUR": "4.2402",
+      "USD": "4.1147"
+    },
+    {
+      "date": "2026-08-28",
+      "EUR": "4.2383",
+      "USD": "4.1125"
+    },
+    {
+      "date": "2026-08-31",
+      "EUR": "4.2333",
+      "USD": "4.1053"
+    },
+    {
+      "date": "2026-09-01",
+      "EUR": "4.2318",
+      "USD": "4.1027"
+    },
+    {
+      "date": "2026-09-02",
+      "EUR": "4.2305",
+      "USD": "4.1001"
+    },
+    {
+      "date": "2026-09-03",
+      "EUR": "4.2294",
+      "USD": "4.0975"
+    },
+    {
+      "date": "2026-09-04",
+      "EUR": "4.2283",
+      "USD": "4.0949"
+    },
+    {
+      "date": "2026-09-07",
+      "EUR": "4.2261",
+      "USD": "4.0877"
+    },
+    {
+      "date": "2026-09-08",
+      "EUR": "4.2256",
+      "USD": "4.0856"
+    },
+    {
+      "date": "2026-09-09",
+      "EUR": "4.2253",
+      "USD": "4.0836"
+    },
+    {
+      "date": "2026-09-10",
+      "EUR": "4.2251",
+      "USD": "4.0818"
+    },
+    {
+      "date": "2026-09-11",
+      "EUR": "4.2250",
+      "USD": "4.0802"
+    },
+    {
+      "date": "2026-09-14",
+      "EUR": "4.2257",
+      "USD": "4.0765"
+    },
+    {
+      "date": "2026-09-15",
+      "EUR": "4.2262",
+      "USD": "4.0757"
+    },
+    {
+      "date": "2026-09-16",
+      "EUR": "4.2268",
+      "USD": "4.0750"
+    },
+    {
+      "date": "2026-09-17",
+      "EUR": "4.2276",
+      "USD": "4.0746"
+    },
+    {
+      "date": "2026-09-18",
+      "EUR": "4.2285",
+      "USD": "4.0743"
+    },
+    {
+      "date": "2026-09-21",
+      "EUR": "4.2321",
+      "USD": "4.0743"
+    },
+    {
+      "date": "2026-09-22",
+      "EUR": "4.2336",
+      "USD": "4.0745"
+    },
+    {
+      "date": "2026-09-23",
+      "EUR": "4.2351",
+      "USD": "4.0748"
+    },
+    {
+      "date": "2026-09-24",
+      "EUR": "4.2368",
+      "USD": "4.0751"
+    },
+    {
+      "date": "2026-09-25",
+      "EUR": "4.2387",
+      "USD": "4.0754"
+    },
+    {
+      "date": "2026-09-28",
+      "EUR": "4.2448",
+      "USD": "4.0760"
+    },
+    {
+      "date": "2026-09-29",
+      "EUR": "4.2471",
+      "USD": "4.0760"
+    },
+    {
+      "date": "2026-09-30",
+      "EUR": "4.2494",
+      "USD": "4.0758"
+    },
+    {
+      "date": "2026-10-01",
+      "EUR": "4.2519",
+      "USD": "4.0755"
+    },
+    {
+      "date": "2026-10-02",
+      "EUR": "4.2544",
+      "USD": "4.0749"
+    },
+    {
+      "date": "2026-10-05",
+      "EUR": "4.2625",
+      "USD": "4.0718"
+    },
+    {
+      "date": "2026-10-06",
+      "EUR": "4.2654",
+      "USD": "4.0701"
+    },
+    {
+      "date": "2026-10-07",
+      "EUR": "4.2683",
+      "USD": "4.0682"
+    },
+    {
+      "date": "2026-10-08",
+      "EUR": "4.2713",
+      "USD": "4.0659"
+    },
+    {
+      "date": "2026-10-09",
+      "EUR": "4.2744",
+      "USD": "4.0633"
+    },
+    {
+      "date": "2026-10-12",
+      "EUR": "4.2837",
+      "USD": "4.0534"
+    },
+    {
+      "date": "2026-10-13",
+      "EUR": "4.2869",
+      "USD": "4.0494"
+    },
+    {
+      "date": "2026-10-14",
+      "EUR": "4.2902",
+      "USD": "4.0451"
+    },
+    {
+      "date": "2026-10-15",
+      "EUR": "4.2934",
+      "USD": "4.0405"
+    },
+    {
+      "date": "2026-10-16",
+      "EUR": "4.2967",
+      "USD": "4.0356"
+    },
+    {
+      "date": "2026-10-19",
+      "EUR": "4.3064",
+      "USD": "4.0193"
+    },
+    {
+      "date": "2026-10-20",
+      "EUR": "4.3097",
+      "USD": "4.0135"
+    },
+    {
+      "date": "2026-10-21",
+      "EUR": "4.3129",
+      "USD": "4.0075"
+    },
+    {
+      "date": "2026-10-22",
+      "EUR": "4.3161",
+      "USD": "4.0014"
+    },
+    {
+      "date": "2026-10-23",
+      "EUR": "4.3193",
+      "USD": "3.9952"
+    },
+    {
+      "date": "2026-10-26",
+      "EUR": "4.3285",
+      "USD": "3.9763"
+    },
+    {
+      "date": "2026-10-27",
+      "EUR": "4.3315",
+      "USD": "3.9701"
+    },
+    {
+      "date": "2026-10-28",
+      "EUR": "4.3344",
+      "USD": "3.9640"
+    },
+    {
+      "date": "2026-10-29",
+      "EUR": "4.3373",
+      "USD": "3.9580"
+    },
+    {
+      "date": "2026-10-30",
+      "EUR": "4.3401",
+      "USD": "3.9522"
+    }
+  ],
+  "report_excluded_external_ids": [
+    "HFC-20260220-00657",
+    "HFC-20260226-00658",
+    "HFC-20260920-00659",
+    "HFC-20260926-00660"
+  ],
+  "goals": [
+    {
+      "name": "Emergency fund",
+      "wallet": "emergency_savings",
+      "target": "50000",
+      "allocated": "0",
+      "mode": "wallet",
+      "deadline": "2027-06-30"
+    },
+    {
+      "name": "Next summer holiday",
+      "wallet": "revolut_travel",
+      "target": "6000",
+      "allocated": "0",
+      "mode": "wallet",
+      "deadline": "2027-07-01"
+    },
+    {
+      "name": "Investment milestone",
+      "wallet": "investment_usd",
+      "target": "12000",
+      "allocated": "0",
+      "mode": "wallet",
+      "deadline": "2027-12-31"
+    },
+    {
+      "name": "Home renovation",
+      "currency": "PLN",
+      "target": "30000",
+      "allocated": "8500",
+      "mode": "manual",
+      "deadline": "2027-09-30"
+    }
+  ]
+}

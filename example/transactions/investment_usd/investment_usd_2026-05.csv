@@ -1,0 +1,4 @@
+﻿Date,Amount,Description,Counterparty,Currency,Status,Transaction ID,Balance
+2026-05-03,400.00,FX transfer | Monthly investment contribution | Main account to Investments,James Wilson | Currency exchange,USD,COMPLETED,HFC-20260503-00251,7043.50
+2026-05-28,15.00,Dividend | Portfolio distribution,VANGUARD | Dividends,USD,COMPLETED,HFC-20260528-00302,7058.50
+2026-05-28,-2.50,Brokerage fee | Monthly account fee,VANGUARD | Brokerage,USD,COMPLETED,HFC-20260528-00303,7056.00

@@ -1,0 +1,9 @@
+# Build tools only. Install runtime and development dependencies separately.
+cx-Freeze==8.7.1
+freeze-core==0.8.1
+lief==1.0.0
+cabarchive==0.2.5
+filelock==4.2.5
+striprtf==0.0.35
+setuptools==84.1.0
+packaging==26.2

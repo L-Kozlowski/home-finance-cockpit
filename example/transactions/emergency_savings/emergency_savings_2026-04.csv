@@ -1,0 +1,4 @@
+﻿Date,Amount,Description,Counterparty,Currency,Status,Transaction ID,Balance
+2026-04-02,2300.00,Internal transfer | Emergency fund contribution | Main account to Emergency savings,James Wilson | Own accounts,PLN,COMPLETED,HFC-20260402-00188,33351.65
+2026-04-17,-22000.00,Internal transfer | Car purchase reserve release | Emergency savings to Main account,James Wilson | Own accounts,PLN,COMPLETED,HFC-20260417-00618,11351.65
+2026-04-28,54.85,Interest | Savings account,HSBC,PLN,COMPLETED,HFC-20260428-00240,11406.50

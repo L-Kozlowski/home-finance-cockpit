@@ -1,0 +1,8 @@
+# Development/test dependencies; the test runner is Python's built-in unittest.
+-r requirements.txt
+# Inspect generated PDFs in regression tests (not needed to run the application).
+pypdf==6.21.1
+# Source formatting, import ordering and static checks.
+ruff==0.17.3
+# Candidate detection for unused code; review Qt callbacks before removing them.
+vulture==2.16

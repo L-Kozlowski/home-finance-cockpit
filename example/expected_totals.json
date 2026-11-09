@@ -1,0 +1,599 @@
+{
+  "transaction_count": 667,
+  "monthly_wealth_pln_minor": {
+    "2026-01": 10050015,
+    "2026-02": 10833810,
+    "2026-03": 12345847,
+    "2026-04": 8019396,
+    "2026-05": 8861394,
+    "2026-06": 9959774,
+    "2026-07": 10095582,
+    "2026-08": 10918533,
+    "2026-09": 11967939,
+    "2026-10": 13085028
+  },
+  "imports": [
+    {
+      "file": "transactions/main_account/main_account_2026-01.csv",
+      "wallet": "main_account",
+      "added": 45
+    },
+    {
+      "file": "transactions/main_account/main_account_2026-02.csv",
+      "wallet": "main_account",
+      "added": 51
+    },
+    {
+      "file": "transactions/main_account/main_account_2026-03.csv",
+      "wallet": "main_account",
+      "added": 48
+    },
+    {
+      "file": "transactions/main_account/main_account_2026-04.csv",
+      "wallet": "main_account",
+      "added": 48
+    },
+    {
+      "file": "transactions/main_account/main_account_2026-05.csv",
+      "wallet": "main_account",
+      "added": 47
+    },
+    {
+      "file": "transactions/main_account/main_account_2026-06.csv",
+      "wallet": "main_account",
+      "added": 51
+    },
+    {
+      "file": "transactions/main_account/main_account_2026-07.csv",
+      "wallet": "main_account",
+      "added": 45
+    },
+    {
+      "file": "transactions/main_account/main_account_2026-08.csv",
+      "wallet": "main_account",
+      "added": 48
+    },
+    {
+      "file": "transactions/main_account/main_account_2026-09.csv",
+      "wallet": "main_account",
+      "added": 50
+    },
+    {
+      "file": "transactions/main_account/main_account_2026-10.csv",
+      "wallet": "main_account",
+      "added": 48
+    },
+    {
+      "file": "transactions/emergency_savings/emergency_savings_2026-01.csv",
+      "wallet": "emergency_savings",
+      "added": 2
+    },
+    {
+      "file": "transactions/emergency_savings/emergency_savings_2026-02.csv",
+      "wallet": "emergency_savings",
+      "added": 2
+    },
+    {
+      "file": "transactions/emergency_savings/emergency_savings_2026-03.csv",
+      "wallet": "emergency_savings",
+      "added": 2
+    },
+    {
+      "file": "transactions/emergency_savings/emergency_savings_2026-04.csv",
+      "wallet": "emergency_savings",
+      "added": 3
+    },
+    {
+      "file": "transactions/emergency_savings/emergency_savings_2026-05.csv",
+      "wallet": "emergency_savings",
+      "added": 2
+    },
+    {
+      "file": "transactions/emergency_savings/emergency_savings_2026-06.csv",
+      "wallet": "emergency_savings",
+      "added": 2
+    },
+    {
+      "file": "transactions/emergency_savings/emergency_savings_2026-07.csv",
+      "wallet": "emergency_savings",
+      "added": 2
+    },
+    {
+      "file": "transactions/emergency_savings/emergency_savings_2026-08.csv",
+      "wallet": "emergency_savings",
+      "added": 2
+    },
+    {
+      "file": "transactions/emergency_savings/emergency_savings_2026-09.csv",
+      "wallet": "emergency_savings",
+      "added": 2
+    },
+    {
+      "file": "transactions/emergency_savings/emergency_savings_2026-10.csv",
+      "wallet": "emergency_savings",
+      "added": 2
+    },
+    {
+      "file": "transactions/revolut_travel/revolut_travel_2026-01.csv",
+      "wallet": "revolut_travel",
+      "added": 2
+    },
+    {
+      "file": "transactions/revolut_travel/revolut_travel_2026-02.csv",
+      "wallet": "revolut_travel",
+      "added": 2
+    },
+    {
+      "file": "transactions/revolut_travel/revolut_travel_2026-03.csv",
+      "wallet": "revolut_travel",
+      "added": 2
+    },
+    {
+      "file": "transactions/revolut_travel/revolut_travel_2026-04.csv",
+      "wallet": "revolut_travel",
+      "added": 2
+    },
+    {
+      "file": "transactions/revolut_travel/revolut_travel_2026-05.csv",
+      "wallet": "revolut_travel",
+      "added": 2
+    },
+    {
+      "file": "transactions/revolut_travel/revolut_travel_2026-06.csv",
+      "wallet": "revolut_travel",
+      "added": 3
+    },
+    {
+      "file": "transactions/revolut_travel/revolut_travel_2026-07.csv",
+      "wallet": "revolut_travel",
+      "added": 23
+    },
+    {
+      "file": "transactions/revolut_travel/revolut_travel_2026-08.csv",
+      "wallet": "revolut_travel",
+      "added": 2
+    },
+    {
+      "file": "transactions/revolut_travel/revolut_travel_2026-09.csv",
+      "wallet": "revolut_travel",
+      "added": 5
+    },
+    {
+      "file": "transactions/revolut_travel/revolut_travel_2026-10.csv",
+      "wallet": "revolut_travel",
+      "added": 2
+    },
+    {
+      "file": "transactions/investment_usd/investment_usd_2026-01.csv",
+      "wallet": "investment_usd",
+      "added": 3
+    },
+    {
+      "file": "transactions/investment_usd/investment_usd_2026-02.csv",
+      "wallet": "investment_usd",
+      "added": 3
+    },
+    {
+      "file": "transactions/investment_usd/investment_usd_2026-03.csv",
+      "wallet": "investment_usd",
+      "added": 3
+    },
+    {
+      "file": "transactions/investment_usd/investment_usd_2026-04.csv",
+      "wallet": "investment_usd",
+      "added": 3
+    },
+    {
+      "file": "transactions/investment_usd/investment_usd_2026-05.csv",
+      "wallet": "investment_usd",
+      "added": 3
+    },
+    {
+      "file": "transactions/investment_usd/investment_usd_2026-06.csv",
+      "wallet": "investment_usd",
+      "added": 3
+    },
+    {
+      "file": "transactions/investment_usd/investment_usd_2026-07.csv",
+      "wallet": "investment_usd",
+      "added": 3
+    },
+    {
+      "file": "transactions/investment_usd/investment_usd_2026-08.csv",
+      "wallet": "investment_usd",
+      "added": 3
+    },
+    {
+      "file": "transactions/investment_usd/investment_usd_2026-09.csv",
+      "wallet": "investment_usd",
+      "added": 3
+    },
+    {
+      "file": "transactions/investment_usd/investment_usd_2026-10.csv",
+      "wallet": "investment_usd",
+      "added": 3
+    },
+    {
+      "file": "transactions/gold_usd/gold_usd_2026-01.csv",
+      "wallet": "gold_usd",
+      "added": 2
+    },
+    {
+      "file": "transactions/gold_usd/gold_usd_2026-02.csv",
+      "wallet": "gold_usd",
+      "added": 2
+    },
+    {
+      "file": "transactions/gold_usd/gold_usd_2026-03.csv",
+      "wallet": "gold_usd",
+      "added": 2
+    },
+    {
+      "file": "transactions/gold_usd/gold_usd_2026-04.csv",
+      "wallet": "gold_usd",
+      "added": 2
+    },
+    {
+      "file": "transactions/gold_usd/gold_usd_2026-05.csv",
+      "wallet": "gold_usd",
+      "added": 2
+    },
+    {
+      "file": "transactions/gold_usd/gold_usd_2026-06.csv",
+      "wallet": "gold_usd",
+      "added": 2
+    },
+    {
+      "file": "transactions/gold_usd/gold_usd_2026-07.csv",
+      "wallet": "gold_usd",
+      "added": 2
+    },
+    {
+      "file": "transactions/gold_usd/gold_usd_2026-08.csv",
+      "wallet": "gold_usd",
+      "added": 2
+    },
+    {
+      "file": "transactions/gold_usd/gold_usd_2026-09.csv",
+      "wallet": "gold_usd",
+      "added": 2
+    },
+    {
+      "file": "transactions/gold_usd/gold_usd_2026-10.csv",
+      "wallet": "gold_usd",
+      "added": 2
+    },
+    {
+      "file": "transactions/bonds/bonds_2026-01.csv",
+      "wallet": "bonds",
+      "added": 3
+    },
+    {
+      "file": "transactions/bonds/bonds_2026-02.csv",
+      "wallet": "bonds",
+      "added": 3
+    },
+    {
+      "file": "transactions/bonds/bonds_2026-03.csv",
+      "wallet": "bonds",
+      "added": 3
+    },
+    {
+      "file": "transactions/bonds/bonds_2026-04.csv",
+      "wallet": "bonds",
+      "added": 3
+    },
+    {
+      "file": "transactions/bonds/bonds_2026-05.csv",
+      "wallet": "bonds",
+      "added": 3
+    },
+    {
+      "file": "transactions/bonds/bonds_2026-06.csv",
+      "wallet": "bonds",
+      "added": 3
+    },
+    {
+      "file": "transactions/bonds/bonds_2026-07.csv",
+      "wallet": "bonds",
+      "added": 3
+    },
+    {
+      "file": "transactions/bonds/bonds_2026-08.csv",
+      "wallet": "bonds",
+      "added": 3
+    },
+    {
+      "file": "transactions/bonds/bonds_2026-09.csv",
+      "wallet": "bonds",
+      "added": 3
+    },
+    {
+      "file": "transactions/bonds/bonds_2026-10.csv",
+      "wallet": "bonds",
+      "added": 3
+    },
+    {
+      "file": "transactions/cash/cash_2026-01.csv",
+      "wallet": "cash",
+      "added": 4
+    },
+    {
+      "file": "transactions/cash/cash_2026-02.csv",
+      "wallet": "cash",
+      "added": 4
+    },
+    {
+      "file": "transactions/cash/cash_2026-03.csv",
+      "wallet": "cash",
+      "added": 4
+    },
+    {
+      "file": "transactions/cash/cash_2026-04.csv",
+      "wallet": "cash",
+      "added": 4
+    },
+    {
+      "file": "transactions/cash/cash_2026-05.csv",
+      "wallet": "cash",
+      "added": 4
+    },
+    {
+      "file": "transactions/cash/cash_2026-06.csv",
+      "wallet": "cash",
+      "added": 4
+    },
+    {
+      "file": "transactions/cash/cash_2026-07.csv",
+      "wallet": "cash",
+      "added": 4
+    },
+    {
+      "file": "transactions/cash/cash_2026-08.csv",
+      "wallet": "cash",
+      "added": 4
+    },
+    {
+      "file": "transactions/cash/cash_2026-09.csv",
+      "wallet": "cash",
+      "added": 4
+    },
+    {
+      "file": "transactions/cash/cash_2026-10.csv",
+      "wallet": "cash",
+      "added": 4
+    }
+  ],
+  "wallets": [
+    {
+      "id": 1,
+      "name": "Main account",
+      "currency": "PLN",
+      "balance_minor": 2938013
+    },
+    {
+      "id": 2,
+      "name": "Emergency savings",
+      "currency": "PLN",
+      "balance_minor": 2558075
+    },
+    {
+      "id": 3,
+      "name": "Revolut Travel",
+      "currency": "EUR",
+      "balance_minor": 87800
+    },
+    {
+      "id": 4,
+      "name": "Investments",
+      "currency": "USD",
+      "balance_minor": 912825
+    },
+    {
+      "id": 5,
+      "name": "Gold reserve",
+      "currency": "USD",
+      "balance_minor": 298500
+    },
+    {
+      "id": 6,
+      "name": "Bond portfolio",
+      "currency": "PLN",
+      "balance_minor": 2144900
+    },
+    {
+      "id": 7,
+      "name": "Cash wallet",
+      "currency": "PLN",
+      "balance_minor": 221200
+    }
+  ],
+  "reports": {
+    "EUR": {
+      "2026-01": {
+        "inflows": 0,
+        "expenses": 1300,
+        "net": -1300,
+        "user_excluded_count": 0
+      },
+      "2026-02": {
+        "inflows": 0,
+        "expenses": 1000,
+        "net": -1000,
+        "user_excluded_count": 0
+      },
+      "2026-03": {
+        "inflows": 0,
+        "expenses": 1500,
+        "net": -1500,
+        "user_excluded_count": 0
+      },
+      "2026-04": {
+        "inflows": 0,
+        "expenses": 800,
+        "net": -800,
+        "user_excluded_count": 0
+      },
+      "2026-05": {
+        "inflows": 0,
+        "expenses": 1500,
+        "net": -1500,
+        "user_excluded_count": 0
+      },
+      "2026-06": {
+        "inflows": 0,
+        "expenses": 1000,
+        "net": -1000,
+        "user_excluded_count": 0
+      },
+      "2026-07": {
+        "inflows": 0,
+        "expenses": 235200,
+        "net": -235200,
+        "user_excluded_count": 0
+      },
+      "2026-08": {
+        "inflows": 0,
+        "expenses": 700,
+        "net": -700,
+        "user_excluded_count": 0
+      },
+      "2026-09": {
+        "inflows": 0,
+        "expenses": 38000,
+        "net": -38000,
+        "user_excluded_count": 0
+      },
+      "2026-10": {
+        "inflows": 0,
+        "expenses": 1200,
+        "net": -1200,
+        "user_excluded_count": 0
+      }
+    },
+    "PLN": {
+      "2026-01": {
+        "inflows": 1858870,
+        "expenses": 810625,
+        "net": 1048245,
+        "user_excluded_count": 0
+      },
+      "2026-02": {
+        "inflows": 1870265,
+        "expenses": 1085790,
+        "net": 784475,
+        "user_excluded_count": 2
+      },
+      "2026-03": {
+        "inflows": 2325660,
+        "expenses": 811053,
+        "net": 1514607,
+        "user_excluded_count": 0
+      },
+      "2026-04": {
+        "inflows": 1867455,
+        "expenses": 6194606,
+        "net": -4327151,
+        "user_excluded_count": 0
+      },
+      "2026-05": {
+        "inflows": 1860450,
+        "expenses": 1016402,
+        "net": 844048,
+        "user_excluded_count": 0
+      },
+      "2026-06": {
+        "inflows": 1998545,
+        "expenses": 900525,
+        "net": 1098020,
+        "user_excluded_count": 0
+      },
+      "2026-07": {
+        "inflows": 1936240,
+        "expenses": 793992,
+        "net": 1142248,
+        "user_excluded_count": 0
+      },
+      "2026-08": {
+        "inflows": 1941235,
+        "expenses": 1120454,
+        "net": 820781,
+        "user_excluded_count": 0
+      },
+      "2026-09": {
+        "inflows": 2197030,
+        "expenses": 989664,
+        "net": 1207366,
+        "user_excluded_count": 2
+      },
+      "2026-10": {
+        "inflows": 1946425,
+        "expenses": 829876,
+        "net": 1116549,
+        "user_excluded_count": 0
+      }
+    },
+    "USD": {
+      "2026-01": {
+        "inflows": 1240,
+        "expenses": 400,
+        "net": 840,
+        "user_excluded_count": 0
+      },
+      "2026-02": {
+        "inflows": 1305,
+        "expenses": 400,
+        "net": 905,
+        "user_excluded_count": 0
+      },
+      "2026-03": {
+        "inflows": 1370,
+        "expenses": 400,
+        "net": 970,
+        "user_excluded_count": 0
+      },
+      "2026-04": {
+        "inflows": 1435,
+        "expenses": 400,
+        "net": 1035,
+        "user_excluded_count": 0
+      },
+      "2026-05": {
+        "inflows": 1500,
+        "expenses": 400,
+        "net": 1100,
+        "user_excluded_count": 0
+      },
+      "2026-06": {
+        "inflows": 1565,
+        "expenses": 400,
+        "net": 1165,
+        "user_excluded_count": 0
+      },
+      "2026-07": {
+        "inflows": 1630,
+        "expenses": 400,
+        "net": 1230,
+        "user_excluded_count": 0
+      },
+      "2026-08": {
+        "inflows": 1695,
+        "expenses": 400,
+        "net": 1295,
+        "user_excluded_count": 0
+      },
+      "2026-09": {
+        "inflows": 1760,
+        "expenses": 400,
+        "net": 1360,
+        "user_excluded_count": 0
+      },
+      "2026-10": {
+        "inflows": 1825,
+        "expenses": 400,
+        "net": 1425,
+        "user_excluded_count": 0
+      }
+    }
+  }
+}

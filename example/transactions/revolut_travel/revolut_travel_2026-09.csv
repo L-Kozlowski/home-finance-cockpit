@@ -1,0 +1,6 @@
+﻿Date,Amount,Description,Counterparty,Currency,Status,Transaction ID,Balance
+2026-09-04,200.00,FX transfer | Holiday fund contribution | Main account to Revolut Travel,James Wilson | Currency exchange,EUR,COMPLETED,HFC-20260904-00503,1070.00
+2026-09-10,-95.00,Autumn city break | Return flights,RYANAIR,EUR,COMPLETED,HFC-20260910-00654,975.00
+2026-09-12,-12.00,Travel account | Subscription,SPOTIFY,EUR,COMPLETED,HFC-20260912-00553,963.00
+2026-09-13,-225.00,Autumn city break | Two-night stay,HILTON,EUR,COMPLETED,HFC-20260913-00655,738.00
+2026-09-14,-48.00,Autumn city break | Museum and city tour,GETYOURGUIDE,EUR,COMPLETED,HFC-20260914-00656,690.00
